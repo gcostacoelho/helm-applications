@@ -4,7 +4,7 @@ appPort: 5000
 
 image:
   registry: harbor.localhost.com/mateusmullerme/restapi-flask
-  tag: latest
+  tag: dev-68450bc37d
 
 environmentVariables:
   - name: MONGODB_DB
