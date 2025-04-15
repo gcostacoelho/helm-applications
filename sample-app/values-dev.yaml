@@ -4,13 +4,13 @@ appPort: 5000
 
 image:
   registry: harbor.localhost.com/mateusmullerme/restapi-flask
-  tag: dev-68450bc37d
+  tag: dev-1234567890
 
 environmentVariables:
   - name: MONGODB_DB
     value: api
   - name: MONGODB_HOST
-    value: flask-mongodb
+    value: sample-app-mongodb
   - name: MONGODB_USERNAME
     value: api
   - name: MONGODB_PASSWORD
