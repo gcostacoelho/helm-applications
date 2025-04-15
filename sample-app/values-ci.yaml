@@ -10,7 +10,7 @@ environmentVariables:
   - name: MONGODB_DB
     value: api
   - name: MONGODB_HOST
-    value: flask-ci-mongodb
+    value: sample-app-ci-mongodb
   - name: MONGODB_USERNAME
     value: api
   - name: MONGODB_PASSWORD
