@@ -4,7 +4,7 @@ appPort: 5000
 
 image:
   registry: harbor.localhost.com/gustavome/sample-app
-  tag: v0.0.0
+  tag: v3.0.0
 
 environmentVariables:
   - name: MONGODB_DB
