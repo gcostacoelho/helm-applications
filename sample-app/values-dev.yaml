@@ -3,7 +3,7 @@ replicaCount: 1
 appPort: 5000
 
 image:
-  registry: harbor.localhost.com/mateusmullerme/restapi-flask
+  registry: harbor.localhost.com/gustavome/sample-app
   tag: dev-68450bc37d
 
 environmentVariables:
